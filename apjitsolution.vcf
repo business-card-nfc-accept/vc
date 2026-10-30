@@ -1,13 +1,21 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Paco;Antonio;;;Jr.
-FN:Antonio Paco Jr.
-ORG:APJIT Solution
+N:Paco;Jon;;;
+FN:Jon Paco
+ORG:APJIT SOLUTIONS
 TITLE:Chief Executive Officer
 TEL;TYPE=CELL:+639336805629
 TEL;TYPE=WORK,VOICE:+63284635326
 ADR;TYPE=WORK:;;L. Langit St.;Caloocan City;Metro Manila;1400;Philippines
 URL:https://apjitsolutions.live
+NOTE:Information Technology Consultancy - We build the systems that run you
+ r business.\n\nCustom software\, automation\, AI\, websites and IT support
+  for enterprises\, SMEs and government teams.\n\nServices:\n- Custom Busin
+ ess Systems\n- Process Automation\n- AI & Data\n- Legacy Modernization\n- 
+ Website & Web App Development\n- IT Support & Maintenance\n- Cloud\, Hosti
+ ng & Migration\n- IT Consulting & Integration\n\nSenior-led delivery backe
+ d by 20+ years of enterprise software experience.\nBook a free process ass
+ essment: apjitsolutions.live
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBAUEBAYFBQUG
  BgYHCQ4JCQgICRINDQoOFRIWFhUSFBQXGiEcFxgfGRQUHScdHyIjJSUlFhwpLCgkKyEkJST/2w
  BDAQYGBgkICREJCREkGBQYJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk
